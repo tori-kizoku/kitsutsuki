@@ -1,0 +1,6 @@
+{
+  "data-root": "/volume1/@docker/lib",
+  "registry-mirrors" : [],
+  "storage-driver" : "vfs",
+  "bridge": "none"
+}
